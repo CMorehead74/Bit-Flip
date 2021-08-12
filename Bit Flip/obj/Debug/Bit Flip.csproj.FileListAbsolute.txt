@@ -1,0 +1,12 @@
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\bin\Debug\Bit Flip.exe.config
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\bin\Debug\Bit Flip.exe
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\bin\Debug\Bit Flip.pdb
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit Flip.csprojResolveAssemblyReference.cache
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit_Flip.Form1.resources
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit_Flip.Properties.Resources.resources
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit Flip.csproj.GenerateResource.Cache
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit Flip.exe
+C:\Users\cmorehead\Documents\Accusoft\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit Flip.pdb
+C:\Users\cmorehead\Documents\Corey_Personal_Documents\Side Projects\Side Projects\Bit Flip\Bit Flip\bin\Debug\Bit Flip.exe.config
+C:\Users\cmorehead\Documents\Corey_Personal_Documents\Side Projects\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit Flip.exe
+C:\Users\cmorehead\Documents\Corey_Personal_Documents\Side Projects\Side Projects\Bit Flip\Bit Flip\obj\Debug\Bit Flip.pdb
